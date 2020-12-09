@@ -3,7 +3,6 @@
 - 🔭 I'm currently working on making cool stuff to improve people's lives
 - 🌱 I'm currently learning how to make a `react-native` app
 - ⚡ Fun fact: I enjoy building stuff
-
 <!--
 **stevegardiner26/stevegardiner26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +19,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevegardiner26&layout=compact&langs_count=6&hide=HTML)](https://github.com/stevegardiner26/)
 
 -->
-
-<br>
 <hr>
 
 ### Coding Languages
