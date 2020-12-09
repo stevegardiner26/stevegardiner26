@@ -27,9 +27,6 @@
 
 ![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevegardiner26&count_private=true&show_icons=true&theme=dracula)
 
-[<img align="left" alt="steve | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[linkedin]: https://linkedin.com/in/steven-gardiner/
-
 <!--
 **stevegardiner26/stevegardiner26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevegardiner26&layout=compact&langs_count=6&hide=HTML)](https://github.com/stevegardiner26/)
