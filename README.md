@@ -3,22 +3,6 @@
 - 🔭 I'm currently working on making cool stuff to improve people's lives
 - 🌱 I'm currently learning how to make a `react-native` app
 - ⚡ Fun fact: I enjoy building stuff
-<!--
-**stevegardiner26/stevegardiner26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevegardiner26&layout=compact&langs_count=6&hide=HTML)](https://github.com/stevegardiner26/)
-
--->
 <hr>
 
 ### My Coding Languages
@@ -43,9 +27,6 @@ Here are some ideas to get you started:
 
 ![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevegardiner26&count_private=true&show_icons=true&theme=dracula)
 
-[![steve's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stevegardiner26)](https://github.com/stevegardiner26)
-
-
 [<img align="left" alt="steve.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="steve | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="steve | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
@@ -53,3 +34,10 @@ Here are some ideas to get you started:
 [website]: https://stevegardiner.org/
 [gmail]: mailto:stevegardiner26@gmail.com
 [linkedin]: https://linkedin.com/in/steven-gardiner/
+
+
+<!--
+**stevegardiner26/stevegardiner26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevegardiner26&layout=compact&langs_count=6&hide=HTML)](https://github.com/stevegardiner26/)
+[![steve's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stevegardiner26&layout=compact)](https://github.com/stevegardiner26)
+-->
