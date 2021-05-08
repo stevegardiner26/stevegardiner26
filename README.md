@@ -20,7 +20,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/3984138/51425579-d3636000-1bd5-11e9-93d6-61672d44b0c0.jpg"/>
 <img align="left" alt="mySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"/>
 <img align="left" alt="aws" width="26px" src="https://cloudastronautblog.files.wordpress.com/2017/10/aws_logo_smile_1200x630.png?w=288&h=288&crop=1"/>
-<img align="left" alt="redis" width="26px" src="https://blog.newrelic.com/wp-content/uploads/redis.png"/>
+<img align="left" alt="redis" width="26px" src="https://i0.wp.com/www.tutorialsavvy.com/wp-content/uploads/2016/01/redis-logo.png?fit=308%2C260"/>
 
 <br>
 <hr>
