@@ -18,7 +18,7 @@
 <img align="left" alt="Ruby" width="26px" src="https://avatars0.githubusercontent.com/u/210414?s=400&v=4"/>
 <img align="left" alt="Python" width="26px" src="https://repository-images.githubusercontent.com/88345998/d0468980-4297-11ea-96fa-e9a94794209d"/>
 <img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/3984138/51425579-d3636000-1bd5-11e9-93d6-61672d44b0c0.jpg"/>
-<img align="left" alt="mySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"/>
+<img align="left" alt="mySQL" width="26px" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW.png"/>
 <img align="left" alt="aws" width="26px" src="https://cloudastronautblog.files.wordpress.com/2017/10/aws_logo_smile_1200x630.png?w=288&h=288&crop=1"/>
 <img align="left" alt="redis" width="26px" src="https://i0.wp.com/www.tutorialsavvy.com/wp-content/uploads/2016/01/redis-logo.png?fit=308%2C260"/>
 
