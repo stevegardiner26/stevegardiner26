@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Steve
 
 - 🔭 I'm currently working on making cool stuff to improve people's lives
-- 🌱 I'm currently learning how to make a `react-native` app
+- 🌱 I'm currently learning how to make a `giant open source project`
 - ⚡ Fun fact: I enjoy building stuff
 <hr>
 
