@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Steve
 
 - 🔭 I'm currently working on making cool stuff to improve people's lives
-- I recently just built a fully functioning React Native app
-- 🌱 I'm currently learning how to make a `giant open source project`
+- I recently just built a fully functioning React Native app from design to release on the app store!
+- 🌱 I'm currently learning how to make an `open source node package`
 - ⚡ Fun fact: I enjoy building stuff
 <hr>
 
